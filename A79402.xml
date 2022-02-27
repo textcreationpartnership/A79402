@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the most illustrious, and high-born prince, Charles by the grace of God King of Sweden; to His most excellent Highness, Oliver, Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging. With the letters of credence sent from His Royal Majesty, to Monsieur Bonnel, resident for the Crown and Kingdom, concerning the Articles of Peace and Union.</title>
+            <author>Charles X Gustav, King of Sweden, 1622-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79402</idno>
+            <idno type="STC">Wing C3654</idno>
+            <idno type="STC">Thomason E806_6</idno>
+            <idno type="STC">ESTC R207172</idno>
+            <idno type="EEBO-CITATION">99866242</idno>
+            <idno type="PROQUEST">99866242</idno>
+            <idno type="VID">167884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167884)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E806[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the most illustrious, and high-born prince, Charles by the grace of God King of Sweden; to His most excellent Highness, Oliver, Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging. With the letters of credence sent from His Royal Majesty, to Monsieur Bonnel, resident for the Crown and Kingdom, concerning the Articles of Peace and Union.</title>
+                  <author>Charles X Gustav, King of Sweden, 1622-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Mharton [sic],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two news-letters.</note>
+                  <note>Annotation on Thomason copy: "July 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Sweden --  Early works to 1800.</term>
+               <term>Sweden --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167884:1" rendition="simple:additions"/>
+            <p>A MESSAGE SENT From the moſt illuſtrious, and High-born PRINCE, CHARLES By the Grace of God King of Sweden;</p>
+            <p>TO His moſt excellent Highneſs, OLIVER, Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Domi<g ref="char:EOLhyphen"/>nions thereunto belonging.</p>
+            <p>With the Letters of Credence ſent from His Royal Majeſty, to Monſieur Bonnel, Re<g ref="char:EOLhyphen"/>ſident for the Crown and Kingdom, concern<g ref="char:EOLhyphen"/>ing the Articles of Peace and Union.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Mharton,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:167884:2"/>
+            <pb n="3" facs="tcp:167884:2"/>
+            <head>A Meſſage ſent from the moſt illuſtrious and high born Prince, Carolus Guſta<g ref="char:EOLhyphen"/>vus Adolphus, King of Sweden, to His Highneſs, Oliver, Lord Protector of the Commonwealth of England, Scot<g ref="char:EOLhyphen"/>land, and Ireland, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Arolus Guſtavus Adolphus, by the Grace of God, King of Swe<g ref="char:EOLhyphen"/>den, &amp;c. being inveſted in the Royal Seat of Majeſty, by the free conſent of the Nobility Gentlemen, and Bores, thought it requiſite to congratulate His Highneſs the Lord Protector with a Meſ<g ref="char:EOLhyphen"/>ſage, in confirmation of the Articles of U<g ref="char:EOLhyphen"/>nion, agreed upon between the Common<g ref="char:EOLhyphen"/>wealth
+<pb n="4" facs="tcp:167884:3"/>of England, and the Crown of Sweden: In order whereunto, his Majeſty ſent new Letters of Credence to Monſieur Bonnel his Reſident; and thereupon his Lordſhip had Audience by his High<g ref="char:EOLhyphen"/>neſs in White-Hall, being attended by Sir Oliver Fleming maſter of the Ceremonies, and divers other Gentlemen. And after a very grave and learned O<g ref="char:EOLhyphen"/>ration, he preſented his Highneſs with the Royal Condeſcenſions of his Lord and Maſter, To con<g ref="char:EOLhyphen"/>firm and maintain all things partieularly contained and ſpecified in the Articles of Union, &amp;c.</p>
+            <p>After which, the two Deputies from the Duke of Holdenburgh had both Audience by his High<g ref="char:EOLhyphen"/>neſs; and then the Secretary from the States of Ve<g ref="char:EOLhyphen"/>nice.</p>
+            <p>Unto whoſe aſſiſtance, a gallant Fleet is prepa<g ref="char:EOLhyphen"/>ring for relief of the Chriſtians againſt the Turk: Between whom there hath been two great Naval Fights: but in the firſt the Venetians loſt the Gal<g ref="char:EOLhyphen"/>ley of Padua, Monſieur Moricini Captain of the Golf was killed, and his Galley blown up with powder; and the golden Eagle and an Engliſh Bot<g ref="char:EOLhyphen"/>tom were burnt; but after three dayes vigorous and lamentable engagement the Venetians becauſe Vi<g ref="char:EOLhyphen"/>ctors.</p>
+            <pb n="5" facs="tcp:167884:3"/>
+            <p>In which memorable and Chriſtian Diſpute, the Turks loſt 20 Galleys, five Mahones, and ſix men of war; and the reſt were forced into the Iſle of S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io, where the Venetians have had a ſecond Victory, and again ſunk ſix of their Gallies, and taken ſix ſhips, and three Mahones, with the loſs of three of the Venetian Gallies.</p>
+            <p>By an Expreſs from Hainant the 20 of July it is certified, That the King of Scots being gone from Peron towards the Spaw, was met within a League of Peron by by the marſhal Thurenne, and de la F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rte, who conducted him as far as the Enemies Countrey; whence they returned with the Duke of York, who is now made Lieutenant Generaliſſimo. Soon after the Governor of Cambray of the Spani<g ref="char:EOLhyphen"/>ard, met the King of Scots, and conducted him to his Lodgings, and there feaſted him like a Prince: Since which time he is gone to the Spaw.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:167884:4"/>
+               <head>An Abſtract from the Navy.</head>
+               <p>ON the 8 of this inſtant July, divers of the Eng<g ref="char:EOLhyphen"/>liſh Frigats having been upon the Coaſt of Dunkirk, to convoy a fleet of Merchant-men; up<g ref="char:EOLhyphen"/>on their return, they eſpyed the King of Scots fleet, unto whom they gave chace; and at laſt com<g ref="char:EOLhyphen"/>within ſhot, ſaluted them with ſeveral broad ſides; Vice-admiral Banniſter being in the Eagle, anſwerd them again; but after a ſharp diſpute, finding the Arguments too high to diſpenſe withall from the mouthes of the Engliſh Canon, he tacked about, for Calis, and got under the command of the Roy<g ref="char:EOLhyphen"/>all Fort, where he preſently hung forth a Flag of defiance; which Captain Benjamin Sacheverel per<g ref="char:EOLhyphen"/>ceiving, attempted with the Eagle to ſtrand him; but the great Canon from the Fort and Block hou<g ref="char:EOLhyphen"/>ſes played ſo faſt upon him, that he was conſtrained to come off by the Leeward, his deſign proving unfeaſible. However upon their putting forth to the main Ocean, they eſpyed another fleet, which proved French-men, and after 4 or 5 leagues chace, ſunk one, and took another, without the loſs of one man. We have alſo taken their New found land fleet, and divers ſhips coming from Malaga, which adds far more Tryumphant Victories, when we
+<pb n="7" facs="tcp:167884:4"/>fought their great Armado. Yet notwith<g ref="char:EOLhyphen"/>ſtanding, they fortifie the ſea Coaſt, and ſay, that their Victories by Land will ſoon prove Conqueſts by ſea: Indeed, the truth of it is, great has been their ſucceſs ſince the making of the Duke of York Lieutenant General; and that upon his approach with<g ref="char:EOLhyphen"/>in a League of the Spaniſh forces before Ar<g ref="char:EOLhyphen"/>ras with the whole Army upon the way of Doway, where he intrenched upon a deſign to cut off all proviſions from the enemy; the Prince of Conde at firſt repreſented his Opinion at a Council of Officers, that the enemy being but 14000 the beſt way wold be to engage them with hopes of ſucceſs, but his advice was waved. Then the Duke gave them an alarum, and faced them with his horſe, which the French perceiving, made a ſally with ſome horſe and foot with ſuch vigor and reſolution, that they routed the
+<pb n="8" facs="tcp:167884:5"/>Spaniards at firſt; but the Prince of Conde coming in ſeaſonably rallied them, and for<g ref="char:EOLhyphen"/>ced the French into the Town again with ſome loſs; in which conflict his Highneſs fought half an hour ſomtimes on horſeback and ſometimes on foot, at the head of the Trench, where the valiant Knight de Cre<g ref="char:EOLhyphen"/>quy, who commanded the French, had his Arm broken to pieces, and was hardly got<g ref="char:EOLhyphen"/>ten off, and ſeveral other Officers and ſoul<g ref="char:EOLhyphen"/>diers were killed and taken.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
